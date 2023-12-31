@@ -299,6 +299,23 @@ export const projects = [
       
     ],
   },
+  {
+    id: "project-2",
+    title: "Hubflix",
+    github: "https://www.figma.com/file/zsmwBjdmoi5whfU5fv8VMn/Projects?type=design&node-id=297%3A2&mode=design&t=56rI5kwXJyvqZjoE-1",
+    link: "",
+    image: bookmark,
+    content:
+      "UX Design :- Hubflix",
+    stack: [
+      {
+        id: "icon-1",
+        icon: SiFigma,
+        name: "FIGMA"
+      },
+      
+    ],
+  },
 
 ]
 

@@ -1,13 +1,10 @@
 {
-  "homepage": "https://Rahulptl07.github.io/portfolio",
   "name": "react_portfolio",
   "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite --host",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
     "build": "vite build",
     "preview": "vite preview"
   },
